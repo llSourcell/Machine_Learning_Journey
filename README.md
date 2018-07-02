@@ -10,16 +10,16 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - How does GitHub work?
 - [Live Stream (Q&A)](https://www.youtube.com/watch?v=Zok0TPU0L4M) 
 
-## Week 2 - Building an ML Toolkit
+## Week 2 - Mathematics 
+- Gradient Descent Explained
+- Research Paper to Code
+- An Overview of Machine Learning Models
+- Live Stream (Math of Sentiment Analysis) 
+
+## Week 3 - Building an ML Toolkit
 - Machine Learning Recommendations
 - Machine Learning Web Tools
 - Google Colab
-- Live Stream
-
-## Week 3 - Mathematics 
-- Optimization
-- Research paper to code
-- Math Curriculum
 - Live Stream
 
 ## Week 4 - Data Preprocessing
