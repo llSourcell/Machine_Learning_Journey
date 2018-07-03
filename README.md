@@ -7,7 +7,7 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 ## Week 1 - Portfolio Design
 - [Creating a Great resume](https://youtu.be/nMK94JlKRb4) 
 - [Social Media For Engineers](https://www.youtube.com/watch?v=PulyGf6trOk&lc=UgwAEMZ65ziPHvo5NV14AaABAg) 
-- How does GitHub work?
+- [How does GitHub work?](https://youtu.be/Loav1kbA640)
 - [Live Stream (Q&A)](https://www.youtube.com/watch?v=Zok0TPU0L4M) 
 
 ## Week 2 - Mathematics 
