@@ -52,7 +52,7 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - Research opportunites
 - Live Stream
 
-# Week 9 - The Latest Machine Learning techniques
+## Week 9 - The Latest Machine Learning techniques
 - Meta Learning
 - New optimization strategies
 - Deep Reinforcement Learning
