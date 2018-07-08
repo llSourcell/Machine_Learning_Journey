@@ -11,10 +11,9 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [Live Stream (Q&A)](https://www.youtube.com/watch?v=Zok0TPU0L4M) 
 
 ## Week 2 - Mathematics 
-- Gradient Descent Explained
+- [Backpropagation Explained](https://www.youtube.com/watch?v=FaHHWdsIYQg)
 - Research Paper to Code
-- An Overview of Machine Learning Models
-- Live Stream (Math of Sentiment Analysis) 
+- [100 Days of ML Code Challenge](https://www.youtube.com/watch?v=cuQMBj1cWPo)
 
 ## Week 3 - Building an ML Toolkit
 - Machine Learning Recommendations
