@@ -15,7 +15,13 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [Research Paper to Code](https://youtu.be/pQyzdwHBbqo) 
 - [100 Days of ML Code Challenge](https://www.youtube.com/watch?v=cuQMBj1cWPo)
 
-## Week 3 - Building an ML Toolkit
+## Week 3 - Stock Price Prediction
+- Time Series + CNN
+- Reinforcement Learning
+- Cutting Edge Models
+- Live Stream
+
+## Week 4 - Building an ML Toolkit
 - Machine Learning Recommendations
 - Machine Learning Web Tools
 - Google Colab
@@ -26,12 +32,6 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - Cleaning Data
 - Data Tools
 - Live Stream 
-
-## Week 5 - Stock Price Prediction
-- Time Series + CNN
-- Reinforcement Learning
-- Cutting Edge Models
-- Live Stream
 
 ## Week 6 - TensorFlow
 - TF.JS
