@@ -16,10 +16,10 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [100 Days of ML Code Challenge](https://www.youtube.com/watch?v=cuQMBj1cWPo)
 
 ## Week 3 - Stock Price Prediction
-- Time Series + CNN
-- Reinforcement Learning
-- Cutting Edge Models
-- Live Stream
+- How to Build a Trading Bot
+- Stock Price Prediction using Reinforcement Learning
+- Convolutional Networks Applied to Time Series Data
+- Kive stream 
 
 ## Week 4 - Building an ML Toolkit
 - Machine Learning Recommendations
