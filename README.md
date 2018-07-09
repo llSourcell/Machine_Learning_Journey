@@ -19,7 +19,7 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - How to Build a Trading Bot
 - Stock Price Prediction using Reinforcement Learning
 - Convolutional Networks Applied to Time Series Data
-- Kive stream 
+- Live stream 
 
 ## Week 4 - Building an ML Toolkit
 - Machine Learning Recommendations
