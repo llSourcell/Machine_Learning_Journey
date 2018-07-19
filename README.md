@@ -12,6 +12,7 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 
 ## Week 2 - Mathematics 
 - [Backpropagation Explained](https://www.youtube.com/watch?v=FaHHWdsIYQg)
+- Loss Functions Explained
 - [Research Paper to Code](https://youtu.be/pQyzdwHBbqo) 
 - [100 Days of ML Code Challenge](https://www.youtube.com/watch?v=cuQMBj1cWPo)
 
@@ -19,15 +20,16 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [How to Build a Trading Bot](https://www.youtube.com/edit?o=U&video_id=F2f98pNj99k) 
 - [Stock Price Prediction using Reinforcement Learning](https://www.youtube.com/edit?o=U&video_id=05NqKJ0v7EE)
 - [Convolutional Networks Applied to Time Series Data](https://www.youtube.com/edit?o=U&video_id=5Uw1iSwvHH8) 
+- Your First Machine Learning API
 
-## Week 4 - Building an ML Toolkit
-- Machine Learning Recommendations
-- Machine Learning Web Tools
-- Google Colab
-- Live Stream
+## Week 4 - Machine Learning in Practice
+- AWS Explained
+- Google Colab Explained
+- Azure Explained
+- Completing a Kaggle Competition
 
-## Week 4 - Data Preprocessing
-- Finding the right dataset
+## Week 5 - Data Preprocessing
+- Data Preprocessing
 - Cleaning Data
 - Data Tools
 - Live Stream 
@@ -40,12 +42,10 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 
 ## Week 7 - Deep Learning in Production
 - TensorFlow Serving
-- Designing an ML API
 - Scaling
 - Live Stream
 
 ## Week 8 - GANs
-- Choosing a Loss Function
 - Latest GANs
 - Research opportunites
 - Live Stream
@@ -56,5 +56,4 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - Deep Reinforcement Learning
 - Live Stream
 
-## Week 10 - Putting it all Together
-- Surprise 
+
