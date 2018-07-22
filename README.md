@@ -20,7 +20,7 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [How to Build a Trading Bot](https://www.youtube.com/edit?o=U&video_id=F2f98pNj99k) 
 - [Stock Price Prediction using Reinforcement Learning](https://www.youtube.com/edit?o=U&video_id=05NqKJ0v7EE)
 - [Convolutional Networks Applied to Time Series Data](https://www.youtube.com/edit?o=U&video_id=5Uw1iSwvHH8) 
-- [Your First Machine Learning API]
+- [Your First Machine Learning API](https://www.youtube.com/watch?v=YJyRBPz4CoM) 
 
 ## Week 4 - Machine Learning in Practice
 - AWS Explained
