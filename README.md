@@ -12,7 +12,7 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 
 ## Week 2 - Mathematics
 - [Backpropagation Explained](https://www.youtube.com/watch?v=FaHHWdsIYQg)
-- Loss Functions Explained
+- [Loss Functions Explained](https://www.youtube.com/watch?v=IVVVjBSk9N0)
 - [Research Paper to Code](https://youtu.be/pQyzdwHBbqo)
 - [100 Days of ML Code Challenge](https://www.youtube.com/watch?v=cuQMBj1cWPo)
 
