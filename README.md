@@ -24,7 +24,7 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 
 ## Week 4 - Machine Learning in Practice
 - [AWS Explained](https://www.youtube.com/watch?v=zkzED9HvMG0&feature=youtu.be)
-- [Completing a Kaggle Competition](https://www.youtube.com/watch?v=zkzED9HvMG0&feature=youtu.be&a)
+- [Completing a Kaggle Competition](https://www.youtube.com/watch?v=suRd3UzdBeo&t=2245s)
 - Google Cloud Explained
 - Azure Explained
 
