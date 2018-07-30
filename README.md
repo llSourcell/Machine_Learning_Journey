@@ -23,10 +23,10 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [Your First Machine Learning API](https://www.youtube.com/watch?v=YJyRBPz4CoM)
 
 ## Week 4 - Machine Learning in Practice
-- AWS Explained
-- Google Colab Explained
+- [AWS Explained](https://www.youtube.com/watch?v=zkzED9HvMG0&feature=youtu.be)
+- [Completing a Kaggle Competition](https://www.youtube.com/watch?v=zkzED9HvMG0&feature=youtu.be&a)
+- Google Cloud Explained
 - Azure Explained
-- Completing a Kaggle Competition
 
 ## Week 5 - Data Preprocessing
 - Data Preprocessing
