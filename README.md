@@ -28,11 +28,11 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [Google Cloud Explained](https://www.youtube.com/watch?v=tdhVXKf_WSs)
 - Azure Explained
 
-## Week 5 - Data Preprocessing
-- Data Preprocessing
-- Cleaning Data
-- Data Tools
-- Live Stream
+## Week 5 - Machine Learning Languages
+- Best Programming Language for Machine Learning
+- Logistic Regression in Python
+- Building an ML app with NodeJS
+- Special Video
 
 ## Week 6 - TensorFlow
 - TF.JS
