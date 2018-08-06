@@ -34,11 +34,11 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [Building an ML app with NodeJS](https://www.youtube.com/watch?v=CMank9YmtTM)
 - [School of AI Introduction](https://www.youtube.com/watch?v=8yu8rtXThy8)
 
-## Week 6 - TensorFlow
-- TF.JS
-- Eager Execution
-- Tensorflow Lite
-- Live Stream
+## Week 6 - Modern Day Research
+- Neural Arithmetic Logic Units
+- OpenAI Five
+- Meta Learning
+- PyTorch
 
 ## Week 7 - Deep Learning in Production
 - TensorFlow Serving
@@ -50,8 +50,8 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - Research opportunites
 - Live Stream
 
-## Week 9 - The Latest Machine Learning techniques
-- Meta Learning
+## Week 9 - The Future
+- Radical Ideas
 - New optimization strategies
 - Deep Reinforcement Learning
 - Live Stream
