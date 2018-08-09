@@ -29,8 +29,8 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - Azure Explained
 
 ## Week 5 - Machine Learning Languages
-- Best Programming Language for Machine Learning
-- Logistic Regression in Python
+- [Best Programming Language for Machine Learning](https://www.youtube.com/watch?v=-cdxxrbKdho)
+- [Logistic Regression in Python](https://www.youtube.com/watch?v=H6ii7NFdDeg)
 - [Building an ML app with NodeJS](https://www.youtube.com/watch?v=CMank9YmtTM)
 - [School of AI Introduction](https://www.youtube.com/watch?v=8yu8rtXThy8)
 
