@@ -35,10 +35,10 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [School of AI Introduction](https://www.youtube.com/watch?v=8yu8rtXThy8)
 
 ## Week 6 - Modern Day Research
-- Neural Arithmetic Logic Units
-- OpenAI Five
+- [Neural Arithmetic Logic Units](https://www.youtube.com/watch?v=v9E7Wg0dHiU)
+- [OpenAI Five](https://www.youtube.com/watch?v=DzzFSyzv1p0)
 - AlphaGo Zero
-- PyTorch Live Stream
+- [PyTorch Live Stream](https://www.youtube.com/watch?v=TvwYV0viIQE)
 
 ## Week 7 - Studying Practices
 - How to Study ML
