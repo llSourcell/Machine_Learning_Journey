@@ -37,21 +37,15 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 ## Week 6 - Modern Day Research
 - Neural Arithmetic Logic Units
 - OpenAI Five
-- Meta Learning
-- PyTorch
+- AlphaGo Zero
+- PyTorch Live Stream
 
-## Week 7 - Deep Learning in Production
-- TensorFlow Serving
-- Scaling
-- Live Stream
+## Week 7 - Studying Practices
+- How to Study ML
+- Studying Quantum Machine Learning
+- Finding a Local Study Group
 
-## Week 8 - GANs
+## Week 8 - The Future
 - Latest GANs
 - Research opportunites
-- Live Stream
-
-## Week 9 - The Future
-- Radical Ideas
-- New optimization strategies
-- Deep Reinforcement Learning
 - Live Stream
