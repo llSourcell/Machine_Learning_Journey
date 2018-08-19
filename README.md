@@ -37,7 +37,7 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 ## Week 6 - Modern Day Research
 - [Neural Arithmetic Logic Units](https://www.youtube.com/watch?v=v9E7Wg0dHiU)
 - [OpenAI Five](https://www.youtube.com/watch?v=DzzFSyzv1p0)
-- AlphaGo Zero
+- [AlphaGo Zero](https://www.youtube.com/watch?v=UzYeqAJ2bA8&t=204s)
 - [PyTorch Live Stream](https://www.youtube.com/watch?v=TvwYV0viIQE)
 
 ## Week 7 - Studying Practices
