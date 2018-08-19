@@ -26,7 +26,7 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [AWS Explained](https://www.youtube.com/watch?v=zkzED9HvMG0&feature=youtu.be)
 - [Completing a Kaggle Competition](https://www.youtube.com/watch?v=suRd3UzdBeo&t=2245s)
 - [Google Cloud Explained](https://www.youtube.com/watch?v=tdhVXKf_WSs)
-- Azure Explained
+- [Azure Explained](https://github.com/llSourcell/azure_machine_learning)
 
 ## Week 5 - Machine Learning Languages
 - [Best Programming Language for Machine Learning](https://www.youtube.com/watch?v=-cdxxrbKdho)
