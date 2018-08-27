@@ -41,9 +41,10 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [PyTorch Live Stream](https://www.youtube.com/watch?v=TvwYV0viIQE)
 
 ## Week 7 - Studying Practices
-- How to Study ML
+- [How to Study ML](https://www.youtube.com/watch?v=waXHrc2m9K8)
+- [How to Teach ML](https://www.youtube.com/watch?v=tczjZOLVjJM)
+- [Finding a Local Study Group](https://www.youtube.com/watch?v=_7TvMA_w8xw)
 - Studying Quantum Machine Learning
-- Finding a Local Study Group
 
 ## Week 8 - The Future
 - Latest GANs
