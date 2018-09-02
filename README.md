@@ -44,9 +44,8 @@ This is the Curriculum for "Machine Learning Journey" By Siraj Raval on Youtube.
 - [How to Study ML](https://www.youtube.com/watch?v=waXHrc2m9K8)
 - [How to Teach ML](https://www.youtube.com/watch?v=tczjZOLVjJM)
 - [Finding a Local Study Group](https://www.youtube.com/watch?v=_7TvMA_w8xw)
-- [Studying Quantum Machine Learning](https://www.youtube.com/watch?v=DmzWsvb-Un4)
+- [Interview with AI researcher](https://youtu.be/RsOpnFbufcY)
 
-## Week 8 - The Future
-- Latest GANs
-- Research opportunites
-- Live Stream
+## Week 8 - Advanced Topics
+- [Quantum Machine Learning](https://www.youtube.com/watch?v=DmzWsvb-Un4)
+- [Low Level Optimization](https://youtu.be/giF8XoPTMFg)
